@@ -1,0 +1,7 @@
+# Ignore environment files
+.env
+
+# Ignore specific files in src/
+src/FirstBuyerSpreadJupiterDecode2Git.mjs
+src/FirstBuyerSpreadPumpfunDecodeGit.mjs
+src/FirstBuyerSpreadRaydiumDecodeGit.mjs
