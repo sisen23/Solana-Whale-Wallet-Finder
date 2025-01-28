@@ -1,6 +1,6 @@
 # FirstBuyerSpread Project
 
-This project is designed to process, categorize, and analyze blockchain transactions. It includes functionalities for fetching and processing transaction details, aggregating data, and generating insights. The code is divided into two parts for modularity and scalability. The current log files are examples of the outputted files.
+This project is designed to process, categorize, and analyze blockchain transactions. It includes functionalities for fetching and processing transaction details, aggregating data, and generating insights. The code is divided into two parts for modularity and scalability. The current log files are examples of the outputted files. I wanted a tool that can target certain timeframes of coins and tell me who bought and what there wallet looks like. 
 
 ## Features
 - Fetch transactions from the Solana blockchain using an RPC endpoint.
